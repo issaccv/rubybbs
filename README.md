@@ -1,7 +1,6 @@
-# Repositorio Proyecto Ingeniería de Software
+# 软件工程大作业
 
-### Integrantes: Alfredo De Goyeneche, Alexander Israel, Yoav Navon
+### 王安宇 周全
 
-[Link aplicación en Heroku](https://proyecto-software-grupo29.herokuapp.com/)
+[Heroku](https://rbs-issacc.herokuapp.com/)
 
-[Link Trello](https://trello.com/b/zdNqOrVy/proyecto-rails)
